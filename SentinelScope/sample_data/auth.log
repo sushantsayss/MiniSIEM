@@ -1,0 +1,8 @@
+Sep 27 10:15:01 lab sshd[1101]: Failed password for invalid user admin from 203.0.113.45 port 50101 ssh2
+Sep 27 10:15:03 lab sshd[1102]: Failed password for root from 203.0.113.45 port 50102 ssh2
+Sep 27 10:15:05 lab sshd[1103]: Failed password for test from 203.0.113.45 port 50103 ssh2
+Sep 27 10:15:07 lab sshd[1104]: Failed password for deploy from 203.0.113.45 port 50104 ssh2
+Sep 27 10:15:09 lab sshd[1105]: Failed password for ubuntu from 203.0.113.45 port 50105 ssh2
+Sep 27 10:15:12 lab sshd[1106]: Accepted publickey for analyst from 198.51.100.27 port 51222 ssh2
+Sep 27 10:16:10 lab sudo: analyst : TTY=pts/0 ; COMMAND=/usr/bin/id
+Sep 27 10:17:00 lab app: blocked request from 198.51.100.27 path=/login
